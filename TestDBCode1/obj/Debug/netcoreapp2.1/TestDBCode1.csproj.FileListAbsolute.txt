@@ -1,0 +1,11 @@
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\bin\Debug\netcoreapp2.1\TestDBCode1.deps.json
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\bin\Debug\netcoreapp2.1\TestDBCode1.runtimeconfig.json
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\bin\Debug\netcoreapp2.1\TestDBCode1.runtimeconfig.dev.json
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\bin\Debug\netcoreapp2.1\TestDBCode1.dll
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\obj\Debug\netcoreapp2.1\TestDBCode1.csprojAssemblyReference.cache
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\obj\Debug\netcoreapp2.1\TestDBCode1.csproj.CoreCompileInputs.cache
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\obj\Debug\netcoreapp2.1\TestDBCode1.AssemblyInfoInputs.cache
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\obj\Debug\netcoreapp2.1\TestDBCode1.AssemblyInfo.cs
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\bin\Debug\netcoreapp2.1\TestDBCode1.pdb
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\obj\Debug\netcoreapp2.1\TestDBCode1.dll
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\TestDBCode1\obj\Debug\netcoreapp2.1\TestDBCode1.pdb

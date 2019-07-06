@@ -1,0 +1,12 @@
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\bin\Debug\FizzBuzzNotCore.exe.config
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\bin\Debug\FizzBuzzNotCore.exe
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\bin\Debug\FizzBuzzNotCore.pdb
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\bin\Debug\EntityFramework.dll
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\bin\Debug\EntityFramework.xml
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\obj\Debug\FizzBuzzNotCore.csprojAssemblyReference.cache
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\obj\Debug\FizzBuzzNotCore.csproj.CoreCompileInputs.cache
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\obj\Debug\FizzBuzzNotCore.csproj.CopyComplete
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\obj\Debug\FizzBuzzNotCore.exe
+C:\Users\sambw\OneDrive\Documents\CSharp Projects\FizzBuzz\FizzBuzzNotCore\obj\Debug\FizzBuzzNotCore.pdb

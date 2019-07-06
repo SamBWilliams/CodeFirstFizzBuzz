@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sambw\\OneDrive\\Documents\\CSharp Projects\\FizzBuzz\\TestDBCode1\\TestDBCode1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sambw\\OneDrive\\Documents\\CSharp Projects\\FizzBuzz\\TestDBCode1\\TestDBCode1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sambw\\OneDrive\\Documents\\CSharp Projects\\FizzBuzz\\TestDBCode1\\TestDBCode1.csproj",
+        "projectName": "TestDBCode1",
+        "projectPath": "C:\\Users\\sambw\\OneDrive\\Documents\\CSharp Projects\\FizzBuzz\\TestDBCode1\\TestDBCode1.csproj",
+        "packagesPath": "C:\\Users\\sambw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sambw\\OneDrive\\Documents\\CSharp Projects\\FizzBuzz\\TestDBCode1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sambw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
